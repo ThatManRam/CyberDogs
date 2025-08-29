@@ -1,11 +1,13 @@
 <!-- Hero Banner -->
 <div style="text-align: center; margin-bottom: 30px;">
-<img src="/images/BulldogEmblem.webp" width="125"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="125"/>
+<img src="/images/BulldogEmblem.webp" width="125"align="left"/> 
+  <img src="/images/BulldogEmblem.webp" width="125" align="right"/>
 
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&fontColor=F8E2CF&fontSize=70&text=CYBER%20DOGS" 
        alt="CYBER DOGS" 
        style="width:100%; max-width:900px;"/>
-  <img src="/images/BulldogEmblem.webp" width="125"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="125"/>
+  <img src="/images/BulldogEmblem.webp" width="125" />
+  <img src="/images/BulldogEmblem.webp" width="125" align="right"/>
 </div>
 
 <!-- Bulldog emblem as background with overlay text -->
