@@ -61,5 +61,22 @@
       <br><a href="https://www.linkedin.com/in/darryl-lomax-71741a290">Darryl Lomax</a>
       <br><i>TBD</i>
     </td>
+        <td align="center">
+      <img src="design assets/profile picture/Darryl.jpg" alt="Amir Taylor" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/amir-taylor-837b42311">Amir Taylor</a>
+      <br><i>TBD</i>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="design assets/profile picture/Tobi.jpg" alt="Jalen Theodore" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/jalen-theodore-431bb2247">Jalen Theodore</a>
+      <br><i>TBD</i>
+    </td>
+    <td align="center">
+      <img src="design assets/profile picture/Darryl.jpg" alt="Shannon Wise" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/shannon-wise-jr-723262331">Shannon Wise</a>
+      <br><i>TBD</i>
+    </td>
   </tr>
 </table>
