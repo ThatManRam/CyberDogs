@@ -42,12 +42,12 @@
     <td align="center">
       <img src="/images/profile picture/haley.jpg" alt="Haley Reyes" style="width:250px;height:auto; border-radius: 12px;">
       <br><a href="https://www.linkedin.com/in/hreyes32/">Haley Reyes</a>
-      <br><i>Vice President</i>
+      <br><i>Co-Vice President</i>
     </td>
     <td align="center">
       <img src="/images/profile picture/Sage.jpg" alt="Sage Despeignes" style="width:250px;height:auto; border-radius: 12px;">
       <br><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a>
-      <br><i>Treasurer</i>
+      <br><i>Co-Vice President</i>
     </td>
   </tr>
   <tr>
