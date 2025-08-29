@@ -1,31 +1,63 @@
-<div style="text-align: center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=CYBER%20DOGS&fontColor=F8E2CF&fontSize=70" alt="CYBER DOGS"/>
+<!-- Hero Banner -->
+<div style="text-align: center; margin-bottom: 30px;">
+<img src="/images/BulldogEmblem.webp" width="125"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="125"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&fontColor=F8E2CF&fontSize=70&text=CYBER%20DOGS" 
+       alt="CYBER DOGS" 
+       style="width:100%; max-width:900px;"/>
+  <img src="/images/BulldogEmblem.webp" width="125"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/> <img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="100"/><img src="/images/BulldogEmblem.webp" width="125"/>
 </div>
 
+<!-- Bulldog emblem as background with overlay text -->
+  <h2 style="
+      color: yellow;
+      font-size: 32px;
+      font-weight: bold;
+      text-align: center;
+      text-shadow: 2px 2px 4px black;
+      margin: 0;
+  ">
+    CYBER DOGS
+  </h2>
+</div>
 
-<h2 align="left"><i>The BowieState Cyber Warriors</i></h2>
+<!-- Club Description -->
+<p style="text-align: center; max-width: 700px; margin: 20px auto; font-size: 16px; line-height: 1.5;">
+  This repository contains everything created by the Bowie State University Cyber Security Club. 
+  This ranges from blogs to CTF walkthroughs, scripts, and articles developed and owned by the 
+  Bowie State University Cyber Security Club.
+</p>
 
-<h2 align="center"><img src="/images/BulldogEmblem.webp" alt="Bulldog Emblem" width="200"/></h2>
-This repository contains everything created by the Bowie State University Cyber Security Club. This ranges from blogs to CTF walkthroughs, scripts, and articles developed and owned by the Bowie State University Cyber Security Club.
-
-<h2 align="left"><i>Executives</i></h3>
-<table align="center" border="0">
+<!-- Executives Section -->
+<h2 style="text-align: left;"><i>Executives</i></h2>
+<table align="center" border="0" cellpadding="10" cellspacing="10">
   <tr>
-    <td align="center"><img src="/images/profile picture/Rameses.jpg" alt="Rameses Peyton" style="width:250px;height:auto;">
-        <br><a href="https://www.linkedin.com/in/rameses-peyton-3757b6266">Rameses Peyton</a>
-        <br><i>President</i></td>
+    <td align="center">
+      <img src="/images/profile picture/Rameses.jpg" alt="Rameses Peyton" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/rameses-peyton-3757b6266">Rameses Peyton</a>
+      <br><i>President</i>
+    </td>
+    <td align="center">
+      <img src="/images/profile picture/haley.jpg" alt="Haley Reyes" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/hreyes32/">Haley Reyes</a>
+      <br><i>Vice President</i>
+    </td>
+    <td align="center">
+      <img src="/images/profile picture/Sage.jpg" alt="Sage Despeignes" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a>
+      <br><i>Treasurer</i>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="design assets/profile picture/Sage Despeignes.jpg" alt="Sage Despeignes" style="width:250px;height:auto;">
-        <br><a href="https://www.linkedin.com/in/sage-despeignes/">Sage Despeignes</a>
-        <br><i>TBD</i></td>
-    <td align="center"><img src="design assets/profile picture/Tobi Ayodeji.jpg" alt="Tobi Ayodeji" style="width:250px;height:auto;">
-        <br><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodeji</a>
-        <br><i>TBD</i></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="design assets/profile picture/Haley Reyes.jpg" alt="Haley Reyes" style="width:250px;height:auto;">
-        <br><a href="https://www.linkedin.com/in/hreyes32/">Haley Reyes</a>
-        <br><i>TBD</i></td>
+    <td align="center">
+      <img src="design assets/profile picture/Tobi.jpg" alt="Tobi Ayodeji" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/tobi-ayodeji-9abb51265/">Tobi Ayodeji</a>
+      <br><i>TBD</i>
+    </td>
+    <td align="center">
+      <img src="design assets/profile picture/Darryl.jpg" alt="Darryl Lomax" style="width:250px;height:auto; border-radius: 12px;">
+      <br><a href="https://www.linkedin.com/in/darryl-lomax-71741a290">Darryl Lomax</a>
+      <br><i>TBD</i>
+    </td>
   </tr>
 </table>
